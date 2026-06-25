@@ -22,3 +22,5 @@ Para que el proyecto funcione correctamente y pueda conectarse a la base de dato
    * Ve a **Java Build Path** y entra en la pestaña **Libraries**.
    * Selecciona **Modulepath** y haz clic en el botón **Add External JARs...**
    * Selecciona el archivo `.jar` que has descargado, dale a **Apply and Close** y listo.
+
+Tambien tendras que crear la base de datos con las sentecnias sql que te proporciono, las cuales te crearan la base de datos, tablas y llenara de datos dichas tablas

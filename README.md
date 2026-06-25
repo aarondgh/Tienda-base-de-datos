@@ -23,4 +23,4 @@ Para que el proyecto funcione correctamente y pueda conectarse a la base de dato
    * Selecciona **Modulepath** y haz clic en el botón **Add External JARs...**
    * Selecciona el archivo `.jar` que has descargado, dale a **Apply and Close** y listo.
 
-Tambien tendras que crear la base de datos con las sentecnias sql que te proporciono, las cuales te crearan la base de datos, tablas y llenara de datos dichas tablas
+Tambien tendras que crear la base de datos con las sentencias sql que te proporciono, las cuales te crearan la base de datos, tablas y llenara de datos dichas tablas, ademas, tendras que poner los datos de tu base de datos en el archivo ConexionBD.java

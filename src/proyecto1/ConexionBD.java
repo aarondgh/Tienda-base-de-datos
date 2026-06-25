@@ -5,11 +5,11 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class ConexionBD {
-	private static String host = "127.0.0.1"; //poner aqui tus datos de conexion
-	private static String port = "3306";
+	private static String host = ""; //poner aqui tus datos de conexion
+	private static String port = "";
 	private static String bd = "tienda";
-	private static String user = "root";
-	private static String pass = "abc123.";
+	private static String user = "";
+	private static String pass = "";
 	
 	public static Connection obtenerConexion() {
 		Connection conection = null;

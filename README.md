@@ -3,7 +3,7 @@
 Pequeña aplicación de consola para la gestión y persistencia de productos y categorías.
 
 ## 🛠️ Tecnologías utilizadas
-* **Lenguaje:** Java 17 (o la versión que uses)
+* **Lenguaje:** Java
 * **Base de Datos:** MariaDB / MySQL
 * **Conectividad:** JDBC (Java Database Connectivity)
 
